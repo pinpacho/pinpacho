@@ -1,15 +1,26 @@
-<h1 align="center">Hi, I'm 🌎 Julian Pinchao</h1>
-<h3 align="center">I'm a Physics Student passionate about Geophysics, Seismology, and Quantum Mechanics</h3>
+<h1 align="center">Hello 🌎!, I'm  Julian Pinchao</h1>
+<h3 align="center">I’m a Physics student motivated to contribute to research and innovation through interdisciplinary collaboration.</h3>
 
 - 🎓 I’m currently studying **Physics** and exploring the intersection between science and technology.  
-- 💻 I love programming in **Python** and **C++**, and I enjoy working on **IoT projects**.  
+- 💻 I like programming in **Python** and **C++**, and I enjoy working on **IoT projects**.  
 - 🌋 My main scientific interests are **Geophysics**, **Seismology**, and **Quantum Mechanics**.  
 - 🧠 I’m currently learning more about **Data Science**, **Signal Processing**, and **Scientific Computing**.  
 - 📫 How to reach me: **julipinchao@outlook.com**  
 .  
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pinpacho&show_icons=true&locale=en" alt="pinpacho" /></p>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=pinpacho&show_icons=true&locale=en" alt="pinpacho" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pinpacho&show_icons=true&locale=en&layout=compact" alt="pinpacho" />
+    </td>
+  </tr>
+</table>
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
