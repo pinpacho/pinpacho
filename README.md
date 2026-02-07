@@ -9,17 +9,6 @@
 .  
 
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=pinpacho&show_icons=true&locale=en" alt="pinpacho" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pinpacho&show_icons=true&locale=en&layout=compact" alt="pinpacho" />
-    </td>
-  </tr>
-</table>
-
 
 
 <h3 align="left">Languages and Tools:</h3>
