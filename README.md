@@ -38,16 +38,15 @@
 
 </p>
 
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pinpacho&theme=dark&background=0D1117&border=1E293B&stroke=00FFCC&ring=00FFCC&fire=00FFCC&currStreakLabel=00FFCC&sideNums=FFFFFF&sideLabels=94A3B8" alt="GitHub Streak" width="49%" />
+<img src="https://github-stats-extended.vercel.app/api?username=pinpacho&show_icons=true&theme=dark&bg_color=0D1117&border_color=1E293B&title_color=00FFCC&text_color=94A3B8&icon_color=00FFCC&hide=issues" alt="GitHub Stats" width="49%" />
+
+<br>
+
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=pinpacho&layout=compact&theme=dark&bg_color=0D1117&border_color=1E293B&title_color=00FFCC&text_color=94A3B8&langs_count=6&hide=jupyter%20notebook&hide=jupyter%20notebook" alt="Top Languages" width="60%" />
+
+</div>
 
 
-
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=pinpacho&layout=compact&hide=html&theme=merko" alt="PinPacho" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinpacho&layout=compact&theme=merko&custom_title=Top%20Languages" />
-    </td>
-  </tr>
-</table>
